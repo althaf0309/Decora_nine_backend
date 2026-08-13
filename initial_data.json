@@ -15,9 +15,9 @@
     "linkedin_url": null,
     "youtube_url": null,
     "google_maps_url": null,
-    "footer_description": "Decora Nine Interiors is a reputed interior design and execution firm based in Bangalore, with 13 years of experience shaping homes, offices and commercial spaces - delivered on quality, on schedule and true to design intent.",
+    "footer_description": "Decora Nine Interiors is a reputed interior design and execution firm in Bangalore, built on multi-talented supervisors and skilled teams - delivering beautiful, functional spaces on quality, on schedule and true to design intent.",
     "created_at": "2026-07-25T15:32:54.635Z",
-    "updated_at": "2026-07-27T06:52:40.762Z"
+    "updated_at": "2026-08-13T05:16:26.495Z"
   }
 },
 {
@@ -29,13 +29,13 @@
     "short_description": "Functional homes, thoughtfully crafted kitchens",
     "description": "We design and execute functional, elegant homes - from living and bedroom spaces to thoughtfully crafted modular kitchens - tailored to how you live. Every stage, from the first drawing to the final finish, is handled by our in-house team for consistent quality and on-time delivery.",
     "icon": "🏠",
-    "cover_image": "services/residential-interior-design.jpg",
+    "cover_image": "services/residential-interior-design_QRnRgFY.jpg",
     "display_order": 1,
     "is_active": true,
     "seo_title": "Residential Interior Design",
     "seo_description": "Functional homes, thoughtfully crafted kitchens",
     "created_at": "2026-07-27T06:52:40.943Z",
-    "updated_at": "2026-07-27T06:52:40.943Z"
+    "updated_at": "2026-08-13T05:16:25.563Z"
   }
 },
 {
@@ -47,13 +47,13 @@
     "short_description": "Spaces built to attract customers",
     "description": "Retail stores, cafes, restaurants and large-format supermarkets - we build commercial spaces designed to attract customers and elevate your brand, backed by dependable site execution across South India.",
     "icon": "🏬",
-    "cover_image": "services/commercial-interior-design_91GCKn0.jpg",
+    "cover_image": "services/commercial-interior-design_1C1CKTH.jpg",
     "display_order": 2,
     "is_active": true,
     "seo_title": "Commercial Interior Design",
     "seo_description": "Spaces built to attract customers",
     "created_at": "2026-07-27T06:52:41.020Z",
-    "updated_at": "2026-07-28T17:17:29.370Z"
+    "updated_at": "2026-08-13T05:16:25.643Z"
   }
 },
 {
@@ -65,13 +65,13 @@
     "short_description": "Productive workspaces for growing teams",
     "description": "Open-plan workstations, cabins and meeting zones designed to boost productivity and reflect your culture - delivered on schedule for growing teams.",
     "icon": "💼",
-    "cover_image": "services/office-interiors_pRTeZg1.jpg",
+    "cover_image": "services/office-interiors_yFJU1Qj.jpg",
     "display_order": 3,
     "is_active": true,
     "seo_title": "Office Interiors",
     "seo_description": "Productive workspaces for growing teams",
     "created_at": "2026-07-27T06:52:41.080Z",
-    "updated_at": "2026-07-28T17:17:29.452Z"
+    "updated_at": "2026-08-13T05:16:26.068Z"
   }
 },
 {
@@ -83,13 +83,13 @@
     "short_description": "Custom furniture, precision carpentry work",
     "description": "Custom-built furniture and precision carpentry - wardrobes, storage, cabinetry and modular units - crafted to fit your space perfectly and built to last.",
     "icon": "🪑",
-    "cover_image": "services/furniture-carpentry.jpg",
+    "cover_image": "services/furniture-carpentry_17hVPkP.jpg",
     "display_order": 4,
     "is_active": true,
     "seo_title": "Furniture & Carpentry",
     "seo_description": "Custom furniture, precision carpentry work",
     "created_at": "2026-07-27T06:52:41.098Z",
-    "updated_at": "2026-07-27T06:52:41.098Z"
+    "updated_at": "2026-08-13T05:16:26.261Z"
   }
 },
 {
@@ -101,13 +101,13 @@
     "short_description": "Signage boards that get you noticed",
     "description": "Eye-catching signage and branding boards that get your business noticed - designed, fabricated and installed with a clean, professional finish.",
     "icon": "🪧",
-    "cover_image": "services/signage-board-work.jpg",
+    "cover_image": "services/signage-board-work_b9mQS8J.jpg",
     "display_order": 5,
     "is_active": true,
     "seo_title": "Signage Board Work",
     "seo_description": "Signage boards that get you noticed",
     "created_at": "2026-07-27T06:52:41.126Z",
-    "updated_at": "2026-07-27T06:52:41.126Z"
+    "updated_at": "2026-08-13T05:16:26.299Z"
   }
 },
 {
@@ -119,133 +119,153 @@
     "short_description": "Sleek facades, seamless glass glazing",
     "description": "Modern ACP cladding and structural glass glazing for sleek, seamless building facades that make a lasting first impression.",
     "icon": "🏢",
-    "cover_image": "services/acp-glass-structure-glazing.jpg",
+    "cover_image": "services/acp-glass-structure-glazing_TGxp9B1.jpg",
     "display_order": 6,
     "is_active": true,
     "seo_title": "ACP & Glass Structure Glazing",
     "seo_description": "Sleek facades, seamless glass glazing",
     "created_at": "2026-07-27T06:52:41.153Z",
-    "updated_at": "2026-07-27T06:52:41.153Z"
+    "updated_at": "2026-08-13T05:16:26.343Z"
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 13,
+  "pk": 28,
   "fields": {
     "service": 5,
-    "image": "services/gallery/residential-interior-design-g1.jpg",
+    "image": "services/gallery/residential-interior-design-g1_xnxREb1.jpg",
     "caption": "Residential Interior Design - view 1",
     "display_order": 1
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 14,
+  "pk": 29,
   "fields": {
     "service": 5,
-    "image": "services/gallery/residential-interior-design-g2.jpg",
+    "image": "services/gallery/residential-interior-design-g2_dACNgfp.jpg",
     "caption": "Residential Interior Design - view 2",
     "display_order": 2
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 15,
-  "fields": {
-    "service": 5,
-    "image": "services/gallery/residential-interior-design-g3.jpg",
-    "caption": "Residential Interior Design - view 3",
-    "display_order": 3
-  }
-},
-{
-  "model": "services.servicegallery",
-  "pk": 19,
-  "fields": {
-    "service": 8,
-    "image": "services/gallery/furniture-carpentry-g1.jpg",
-    "caption": "Furniture & Carpentry - view 1",
-    "display_order": 1
-  }
-},
-{
-  "model": "services.servicegallery",
-  "pk": 20,
-  "fields": {
-    "service": 8,
-    "image": "services/gallery/furniture-carpentry-g2.jpg",
-    "caption": "Furniture & Carpentry - view 2",
-    "display_order": 2
-  }
-},
-{
-  "model": "services.servicegallery",
-  "pk": 21,
-  "fields": {
-    "service": 9,
-    "image": "services/gallery/signage-board-work-g1.jpg",
-    "caption": "Signage Board Work - view 1",
-    "display_order": 1
-  }
-},
-{
-  "model": "services.servicegallery",
-  "pk": 22,
-  "fields": {
-    "service": 10,
-    "image": "services/gallery/acp-glass-structure-glazing-g1.jpg",
-    "caption": "ACP & Glass Structure Glazing - view 1",
-    "display_order": 1
-  }
-},
-{
-  "model": "services.servicegallery",
-  "pk": 23,
+  "pk": 30,
   "fields": {
     "service": 6,
-    "image": "services/gallery/commercial-interior-design-g1_xC2OOwL.jpg",
+    "image": "services/gallery/commercial-interior-design-g1_rsIL0U4.jpg",
     "caption": "Commercial Interior Design - view 1",
     "display_order": 1
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 24,
+  "pk": 31,
   "fields": {
     "service": 6,
-    "image": "services/gallery/commercial-interior-design-g2_MEfNV8z.jpg",
+    "image": "services/gallery/commercial-interior-design-g2_VsPH548.jpg",
     "caption": "Commercial Interior Design - view 2",
     "display_order": 2
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 25,
+  "pk": 32,
   "fields": {
     "service": 7,
-    "image": "services/gallery/office-interiors-g1_E5Mo7pJ.jpg",
+    "image": "services/gallery/office-interiors-g1_xZPbt1u.jpg",
     "caption": "Office Interiors - view 1",
     "display_order": 1
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 26,
+  "pk": 33,
   "fields": {
     "service": 7,
-    "image": "services/gallery/office-interiors-g2_EjHw2X9.jpg",
+    "image": "services/gallery/office-interiors-g2_uUcgfEH.jpg",
     "caption": "Office Interiors - view 2",
     "display_order": 2
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 27,
+  "pk": 34,
   "fields": {
     "service": 7,
-    "image": "services/gallery/office-interiors-g3_yLPJoAc.jpg",
+    "image": "services/gallery/office-interiors-g3_VTFyCFq.jpg",
     "caption": "Office Interiors - view 3",
     "display_order": 3
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 35,
+  "fields": {
+    "service": 7,
+    "image": "services/gallery/office-interiors-g4.jpg",
+    "caption": "Office Interiors - view 4",
+    "display_order": 4
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 36,
+  "fields": {
+    "service": 8,
+    "image": "services/gallery/furniture-carpentry-g1_TxuS3tq.jpg",
+    "caption": "Furniture & Carpentry - view 1",
+    "display_order": 1
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 37,
+  "fields": {
+    "service": 8,
+    "image": "services/gallery/furniture-carpentry-g2_qPZy8Ne.jpg",
+    "caption": "Furniture & Carpentry - view 2",
+    "display_order": 2
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 38,
+  "fields": {
+    "service": 9,
+    "image": "services/gallery/signage-board-work-g1_gHhLGC1.jpg",
+    "caption": "Signage Board Work - view 1",
+    "display_order": 1
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 39,
+  "fields": {
+    "service": 9,
+    "image": "services/gallery/signage-board-work-g2.jpg",
+    "caption": "Signage Board Work - view 2",
+    "display_order": 2
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 40,
+  "fields": {
+    "service": 10,
+    "image": "services/gallery/acp-glass-structure-glazing-g1_owlWjdQ.jpg",
+    "caption": "ACP & Glass Structure Glazing - view 1",
+    "display_order": 1
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 41,
+  "fields": {
+    "service": 10,
+    "image": "services/gallery/acp-glass-structure-glazing-g2.jpg",
+    "caption": "ACP & Glass Structure Glazing - view 2",
+    "display_order": 2
   }
 },
 {
@@ -302,11 +322,11 @@
     "project_area": "1400 sq ft",
     "short_description": "A modern industrial-style cafe with custom signage, display counters and cozy seating - designed to pull in footfall and",
     "description": "A modern industrial-style cafe with custom signage, display counters and cozy seating - designed to pull in footfall and keep guests lingering.",
-    "cover_image": "projects/brew-happiness-cafe_aN9E0Fp.jpg",
+    "cover_image": "projects/brew-happiness-cafe_AbxRhgC.jpg",
     "is_featured": true,
     "is_active": true,
     "created_at": "2026-07-27T06:52:41.194Z",
-    "updated_at": "2026-07-28T17:17:29.596Z"
+    "updated_at": "2026-08-13T05:16:26.394Z"
   }
 },
 {
@@ -323,11 +343,11 @@
     "project_area": "1800 sq ft",
     "short_description": "A warm, wood-toned coffee house with layered lighting, a curved service bar and a relaxed café ambience.",
     "description": "A warm, wood-toned coffee house with layered lighting, a curved service bar and a relaxed café ambience.",
-    "cover_image": "projects/artisan-coffee-house_RiymVCl.jpg",
+    "cover_image": "projects/artisan-coffee-house_5j1PJMz.jpg",
     "is_featured": false,
     "is_active": true,
     "created_at": "2026-07-27T06:52:41.221Z",
-    "updated_at": "2026-07-28T17:17:29.683Z"
+    "updated_at": "2026-08-13T05:16:26.406Z"
   }
 },
 {
@@ -344,11 +364,11 @@
     "project_area": "6000 sq ft",
     "short_description": "An open-plan corporate office with glass cabins, breakout zones and biophilic accents, executed on a tight programme.",
     "description": "An open-plan corporate office with glass cabins, breakout zones and biophilic accents, executed on a tight programme.",
-    "cover_image": "projects/corporate-office-fit-out_KSA3Qta.jpg",
+    "cover_image": "projects/corporate-office-fit-out_aY3qaQN.jpg",
     "is_featured": true,
     "is_active": true,
     "created_at": "2026-07-27T06:52:41.239Z",
-    "updated_at": "2026-07-28T17:17:29.728Z"
+    "updated_at": "2026-08-13T05:16:26.419Z"
   }
 },
 {
@@ -365,11 +385,11 @@
     "project_area": "1800 sq ft",
     "short_description": "A contemporary apartment blending warm woods with clean lines - living, bedrooms and a fully crafted modular kitchen.",
     "description": "A contemporary apartment blending warm woods with clean lines - living, bedrooms and a fully crafted modular kitchen.",
-    "cover_image": "projects/skyline-apartment-interior.jpg",
+    "cover_image": "projects/skyline-apartment-interior_ZvpPtTP.jpg",
     "is_featured": true,
     "is_active": true,
     "created_at": "2026-07-27T06:52:41.258Z",
-    "updated_at": "2026-07-27T06:52:41.258Z"
+    "updated_at": "2026-08-13T05:16:26.431Z"
   }
 },
 {
@@ -386,11 +406,11 @@
     "project_area": "900 sq ft",
     "short_description": "A cosy family living room with a full-height media wall, layered lighting and a generous sectional sofa.",
     "description": "A cosy family living room with a full-height media wall, layered lighting and a generous sectional sofa.",
-    "cover_image": "projects/modern-family-living-room.jpg",
+    "cover_image": "projects/modern-family-living-room_uQcPq8S.jpg",
     "is_featured": false,
     "is_active": true,
     "created_at": "2026-07-27T06:52:41.291Z",
-    "updated_at": "2026-07-27T06:52:41.291Z"
+    "updated_at": "2026-08-13T05:16:26.445Z"
   }
 },
 {
@@ -407,11 +427,11 @@
     "project_area": "320 sq ft",
     "short_description": "A handleless modular kitchen with an island, quartz counters, tall units and soft-close storage - precision carpentry th",
     "description": "A handleless modular kitchen with an island, quartz counters, tall units and soft-close storage - precision carpentry throughout.",
-    "cover_image": "projects/premium-modular-kitchen.jpg",
+    "cover_image": "projects/premium-modular-kitchen_fJ6oIZr.jpg",
     "is_featured": true,
     "is_active": true,
     "created_at": "2026-07-27T06:52:41.310Z",
-    "updated_at": "2026-07-27T06:52:41.310Z"
+    "updated_at": "2026-08-13T05:16:26.455Z"
   }
 },
 {
@@ -428,11 +448,11 @@
     "project_area": "240 sq ft",
     "short_description": "A restful bedroom with custom wardrobes, a warm accent wall and soft, layered textures.",
     "description": "A restful bedroom with custom wardrobes, a warm accent wall and soft, layered textures.",
-    "cover_image": "projects/cozy-bedroom-makeover.jpg",
+    "cover_image": "projects/cozy-bedroom-makeover_4Qyl5oe.jpg",
     "is_featured": false,
     "is_active": true,
     "created_at": "2026-07-27T06:52:41.326Z",
-    "updated_at": "2026-07-27T06:52:41.326Z"
+    "updated_at": "2026-08-13T05:16:26.471Z"
   }
 },
 {
@@ -449,11 +469,11 @@
     "project_area": "24000 sq ft",
     "short_description": "Structural glass glazing and ACP cladding for a large-format commercial building - a sleek, seamless facade that stands ",
     "description": "Structural glass glazing and ACP cladding for a large-format commercial building - a sleek, seamless facade that stands out at street level.",
-    "cover_image": "projects/glass-facade-commercial-building.jpg",
+    "cover_image": "projects/glass-facade-commercial-building_dPL20XG.jpg",
     "is_featured": true,
     "is_active": true,
     "created_at": "2026-07-27T06:52:41.345Z",
-    "updated_at": "2026-07-27T06:52:41.345Z"
+    "updated_at": "2026-08-13T05:16:26.484Z"
   }
 },
 {
