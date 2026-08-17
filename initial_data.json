@@ -29,13 +29,13 @@
     "short_description": "Functional homes, thoughtfully crafted kitchens",
     "description": "We design and execute functional, elegant homes - from living and bedroom spaces to thoughtfully crafted modular kitchens - tailored to how you live. Every stage, from the first drawing to the final finish, is handled by our in-house team for consistent quality and on-time delivery.",
     "icon": "🏠",
-    "cover_image": "services/residential-interior-design_QRnRgFY.jpg",
+    "cover_image": "services/residential-interior-design_sN3OdXH.jpg",
     "display_order": 1,
     "is_active": true,
     "seo_title": "Residential Interior Design",
     "seo_description": "Functional homes, thoughtfully crafted kitchens",
     "created_at": "2026-07-27T06:52:40.943Z",
-    "updated_at": "2026-08-13T05:16:25.563Z"
+    "updated_at": "2026-08-17T11:13:26.810Z"
   }
 },
 {
@@ -47,13 +47,13 @@
     "short_description": "Spaces built to attract customers",
     "description": "Retail stores, cafes, restaurants and large-format supermarkets - we build commercial spaces designed to attract customers and elevate your brand, backed by dependable site execution across South India.",
     "icon": "🏬",
-    "cover_image": "services/commercial-interior-design_1C1CKTH.jpg",
+    "cover_image": "services/commercial-interior-design_vmMQ23B.jpg",
     "display_order": 2,
     "is_active": true,
     "seo_title": "Commercial Interior Design",
     "seo_description": "Spaces built to attract customers",
     "created_at": "2026-07-27T06:52:41.020Z",
-    "updated_at": "2026-08-13T05:16:25.643Z"
+    "updated_at": "2026-08-17T11:13:26.956Z"
   }
 },
 {
@@ -65,13 +65,13 @@
     "short_description": "Productive workspaces for growing teams",
     "description": "Open-plan workstations, cabins and meeting zones designed to boost productivity and reflect your culture - delivered on schedule for growing teams.",
     "icon": "💼",
-    "cover_image": "services/office-interiors_yFJU1Qj.jpg",
+    "cover_image": "services/office-interiors_EVhxE8e.jpg",
     "display_order": 3,
     "is_active": true,
     "seo_title": "Office Interiors",
     "seo_description": "Productive workspaces for growing teams",
     "created_at": "2026-07-27T06:52:41.080Z",
-    "updated_at": "2026-08-13T05:16:26.068Z"
+    "updated_at": "2026-08-17T11:13:27.069Z"
   }
 },
 {
@@ -83,13 +83,13 @@
     "short_description": "Custom furniture, precision carpentry work",
     "description": "Custom-built furniture and precision carpentry - wardrobes, storage, cabinetry and modular units - crafted to fit your space perfectly and built to last.",
     "icon": "🪑",
-    "cover_image": "services/furniture-carpentry_17hVPkP.jpg",
+    "cover_image": "services/furniture-carpentry_yIaoq3j.jpg",
     "display_order": 4,
     "is_active": true,
     "seo_title": "Furniture & Carpentry",
     "seo_description": "Custom furniture, precision carpentry work",
     "created_at": "2026-07-27T06:52:41.098Z",
-    "updated_at": "2026-08-13T05:16:26.261Z"
+    "updated_at": "2026-08-17T11:13:27.193Z"
   }
 },
 {
@@ -101,13 +101,13 @@
     "short_description": "Signage boards that get you noticed",
     "description": "Eye-catching signage and branding boards that get your business noticed - designed, fabricated and installed with a clean, professional finish.",
     "icon": "🪧",
-    "cover_image": "services/signage-board-work_b9mQS8J.jpg",
+    "cover_image": "services/signage-board-work_5mAg38s.jpg",
     "display_order": 5,
     "is_active": true,
     "seo_title": "Signage Board Work",
     "seo_description": "Signage boards that get you noticed",
     "created_at": "2026-07-27T06:52:41.126Z",
-    "updated_at": "2026-08-13T05:16:26.299Z"
+    "updated_at": "2026-08-17T11:13:27.289Z"
   }
 },
 {
@@ -119,151 +119,171 @@
     "short_description": "Sleek facades, seamless glass glazing",
     "description": "Modern ACP cladding and structural glass glazing for sleek, seamless building facades that make a lasting first impression.",
     "icon": "🏢",
-    "cover_image": "services/acp-glass-structure-glazing_TGxp9B1.jpg",
+    "cover_image": "services/acp-glass-structure-glazing_PMxwfUZ.jpg",
     "display_order": 6,
     "is_active": true,
     "seo_title": "ACP & Glass Structure Glazing",
     "seo_description": "Sleek facades, seamless glass glazing",
     "created_at": "2026-07-27T06:52:41.153Z",
-    "updated_at": "2026-08-13T05:16:26.343Z"
+    "updated_at": "2026-08-17T11:13:27.365Z"
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 28,
+  "pk": 42,
   "fields": {
     "service": 5,
-    "image": "services/gallery/residential-interior-design-g1_xnxREb1.jpg",
+    "image": "services/gallery/residential-interior-design-g1_IPX69Ve.jpg",
     "caption": "Residential Interior Design - view 1",
     "display_order": 1
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 29,
+  "pk": 43,
   "fields": {
     "service": 5,
-    "image": "services/gallery/residential-interior-design-g2_dACNgfp.jpg",
+    "image": "services/gallery/residential-interior-design-g2_ZCtYcA7.jpg",
     "caption": "Residential Interior Design - view 2",
     "display_order": 2
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 30,
+  "pk": 44,
+  "fields": {
+    "service": 5,
+    "image": "services/gallery/residential-interior-design-g3_0J7AmAw.jpg",
+    "caption": "Residential Interior Design - view 3",
+    "display_order": 3
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 45,
   "fields": {
     "service": 6,
-    "image": "services/gallery/commercial-interior-design-g1_rsIL0U4.jpg",
+    "image": "services/gallery/commercial-interior-design-g1_GmgPPeX.jpg",
     "caption": "Commercial Interior Design - view 1",
     "display_order": 1
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 31,
+  "pk": 46,
   "fields": {
     "service": 6,
-    "image": "services/gallery/commercial-interior-design-g2_VsPH548.jpg",
+    "image": "services/gallery/commercial-interior-design-g2_jwgi6A6.jpg",
     "caption": "Commercial Interior Design - view 2",
     "display_order": 2
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 32,
+  "pk": 47,
+  "fields": {
+    "service": 6,
+    "image": "services/gallery/commercial-interior-design-g3.jpg",
+    "caption": "Commercial Interior Design - view 3",
+    "display_order": 3
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 48,
   "fields": {
     "service": 7,
-    "image": "services/gallery/office-interiors-g1_xZPbt1u.jpg",
+    "image": "services/gallery/office-interiors-g1_YuPBPjH.jpg",
     "caption": "Office Interiors - view 1",
     "display_order": 1
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 33,
+  "pk": 49,
   "fields": {
     "service": 7,
-    "image": "services/gallery/office-interiors-g2_uUcgfEH.jpg",
+    "image": "services/gallery/office-interiors-g2_45lTgyS.jpg",
     "caption": "Office Interiors - view 2",
     "display_order": 2
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 34,
+  "pk": 50,
   "fields": {
     "service": 7,
-    "image": "services/gallery/office-interiors-g3_VTFyCFq.jpg",
+    "image": "services/gallery/office-interiors-g3_J5MQCX0.jpg",
     "caption": "Office Interiors - view 3",
     "display_order": 3
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 35,
+  "pk": 51,
   "fields": {
     "service": 7,
-    "image": "services/gallery/office-interiors-g4.jpg",
+    "image": "services/gallery/office-interiors-g4_4gfybr0.jpg",
     "caption": "Office Interiors - view 4",
     "display_order": 4
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 36,
+  "pk": 52,
   "fields": {
     "service": 8,
-    "image": "services/gallery/furniture-carpentry-g1_TxuS3tq.jpg",
+    "image": "services/gallery/furniture-carpentry-g1_O6oNuJv.jpg",
     "caption": "Furniture & Carpentry - view 1",
     "display_order": 1
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 37,
+  "pk": 53,
   "fields": {
     "service": 8,
-    "image": "services/gallery/furniture-carpentry-g2_qPZy8Ne.jpg",
+    "image": "services/gallery/furniture-carpentry-g2_vNQtfO8.jpg",
     "caption": "Furniture & Carpentry - view 2",
     "display_order": 2
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 38,
+  "pk": 54,
   "fields": {
     "service": 9,
-    "image": "services/gallery/signage-board-work-g1_gHhLGC1.jpg",
+    "image": "services/gallery/signage-board-work-g1_RkG7tyf.jpg",
     "caption": "Signage Board Work - view 1",
     "display_order": 1
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 39,
+  "pk": 55,
   "fields": {
     "service": 9,
-    "image": "services/gallery/signage-board-work-g2.jpg",
+    "image": "services/gallery/signage-board-work-g2_jtzNQWB.jpg",
     "caption": "Signage Board Work - view 2",
     "display_order": 2
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 40,
+  "pk": 56,
   "fields": {
     "service": 10,
-    "image": "services/gallery/acp-glass-structure-glazing-g1_owlWjdQ.jpg",
+    "image": "services/gallery/acp-glass-structure-glazing-g1_9g9qV8p.jpg",
     "caption": "ACP & Glass Structure Glazing - view 1",
     "display_order": 1
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 41,
+  "pk": 57,
   "fields": {
     "service": 10,
-    "image": "services/gallery/acp-glass-structure-glazing-g2.jpg",
+    "image": "services/gallery/acp-glass-structure-glazing-g2_cteht2l.jpg",
     "caption": "ACP & Glass Structure Glazing - view 2",
     "display_order": 2
   }
@@ -322,11 +342,11 @@
     "project_area": "1400 sq ft",
     "short_description": "A modern industrial-style cafe with custom signage, display counters and cozy seating - designed to pull in footfall and",
     "description": "A modern industrial-style cafe with custom signage, display counters and cozy seating - designed to pull in footfall and keep guests lingering.",
-    "cover_image": "projects/brew-happiness-cafe_AbxRhgC.jpg",
+    "cover_image": "projects/brew-happiness-cafe_sMVP7yc.jpg",
     "is_featured": true,
     "is_active": true,
     "created_at": "2026-07-27T06:52:41.194Z",
-    "updated_at": "2026-08-13T05:16:26.394Z"
+    "updated_at": "2026-08-17T11:13:27.433Z"
   }
 },
 {
@@ -343,11 +363,11 @@
     "project_area": "1800 sq ft",
     "short_description": "A warm, wood-toned coffee house with layered lighting, a curved service bar and a relaxed café ambience.",
     "description": "A warm, wood-toned coffee house with layered lighting, a curved service bar and a relaxed café ambience.",
-    "cover_image": "projects/artisan-coffee-house_5j1PJMz.jpg",
+    "cover_image": "projects/artisan-coffee-house_8B61LNI.jpg",
     "is_featured": false,
     "is_active": true,
     "created_at": "2026-07-27T06:52:41.221Z",
-    "updated_at": "2026-08-13T05:16:26.406Z"
+    "updated_at": "2026-08-17T11:13:27.485Z"
   }
 },
 {
@@ -364,11 +384,11 @@
     "project_area": "6000 sq ft",
     "short_description": "An open-plan corporate office with glass cabins, breakout zones and biophilic accents, executed on a tight programme.",
     "description": "An open-plan corporate office with glass cabins, breakout zones and biophilic accents, executed on a tight programme.",
-    "cover_image": "projects/corporate-office-fit-out_aY3qaQN.jpg",
+    "cover_image": "projects/corporate-office-fit-out_n1HcAf0.jpg",
     "is_featured": true,
     "is_active": true,
     "created_at": "2026-07-27T06:52:41.239Z",
-    "updated_at": "2026-08-13T05:16:26.419Z"
+    "updated_at": "2026-08-17T11:13:27.556Z"
   }
 },
 {
@@ -385,11 +405,11 @@
     "project_area": "1800 sq ft",
     "short_description": "A contemporary apartment blending warm woods with clean lines - living, bedrooms and a fully crafted modular kitchen.",
     "description": "A contemporary apartment blending warm woods with clean lines - living, bedrooms and a fully crafted modular kitchen.",
-    "cover_image": "projects/skyline-apartment-interior_ZvpPtTP.jpg",
+    "cover_image": "projects/skyline-apartment-interior_xvjAie8.jpg",
     "is_featured": true,
     "is_active": true,
     "created_at": "2026-07-27T06:52:41.258Z",
-    "updated_at": "2026-08-13T05:16:26.431Z"
+    "updated_at": "2026-08-17T11:13:27.610Z"
   }
 },
 {
@@ -406,11 +426,11 @@
     "project_area": "900 sq ft",
     "short_description": "A cosy family living room with a full-height media wall, layered lighting and a generous sectional sofa.",
     "description": "A cosy family living room with a full-height media wall, layered lighting and a generous sectional sofa.",
-    "cover_image": "projects/modern-family-living-room_uQcPq8S.jpg",
+    "cover_image": "projects/modern-family-living-room_qR2uK0n.jpg",
     "is_featured": false,
     "is_active": true,
     "created_at": "2026-07-27T06:52:41.291Z",
-    "updated_at": "2026-08-13T05:16:26.445Z"
+    "updated_at": "2026-08-17T11:13:27.660Z"
   }
 },
 {
@@ -427,11 +447,11 @@
     "project_area": "320 sq ft",
     "short_description": "A handleless modular kitchen with an island, quartz counters, tall units and soft-close storage - precision carpentry th",
     "description": "A handleless modular kitchen with an island, quartz counters, tall units and soft-close storage - precision carpentry throughout.",
-    "cover_image": "projects/premium-modular-kitchen_fJ6oIZr.jpg",
+    "cover_image": "projects/premium-modular-kitchen_ZYCT6rK.jpg",
     "is_featured": true,
     "is_active": true,
     "created_at": "2026-07-27T06:52:41.310Z",
-    "updated_at": "2026-08-13T05:16:26.455Z"
+    "updated_at": "2026-08-17T11:13:27.718Z"
   }
 },
 {
@@ -448,11 +468,11 @@
     "project_area": "240 sq ft",
     "short_description": "A restful bedroom with custom wardrobes, a warm accent wall and soft, layered textures.",
     "description": "A restful bedroom with custom wardrobes, a warm accent wall and soft, layered textures.",
-    "cover_image": "projects/cozy-bedroom-makeover_4Qyl5oe.jpg",
+    "cover_image": "projects/cozy-bedroom-makeover_NsZwyZ5.jpg",
     "is_featured": false,
     "is_active": true,
     "created_at": "2026-07-27T06:52:41.326Z",
-    "updated_at": "2026-08-13T05:16:26.471Z"
+    "updated_at": "2026-08-17T11:13:27.762Z"
   }
 },
 {
@@ -469,411 +489,211 @@
     "project_area": "24000 sq ft",
     "short_description": "Structural glass glazing and ACP cladding for a large-format commercial building - a sleek, seamless facade that stands ",
     "description": "Structural glass glazing and ACP cladding for a large-format commercial building - a sleek, seamless facade that stands out at street level.",
-    "cover_image": "projects/glass-facade-commercial-building_dPL20XG.jpg",
+    "cover_image": "projects/glass-facade-commercial-building_ISApzek.jpg",
     "is_featured": true,
     "is_active": true,
     "created_at": "2026-07-27T06:52:41.345Z",
-    "updated_at": "2026-08-13T05:16:26.484Z"
+    "updated_at": "2026-08-17T11:13:27.802Z"
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 49,
+  "pk": 89,
   "fields": {
     "project": 9,
-    "image": "projects/gallery/brew-happiness-cafe-g1_rSD4q3x.jpg",
-    "caption": "Brew Happiness Cafe — view 1",
+    "image": "projects/gallery/brew-happiness-cafe-g1_5hPtC98.jpg",
+    "caption": "Brew Happiness Cafe - view 1",
     "display_order": 1
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 50,
+  "pk": 90,
   "fields": {
     "project": 9,
-    "image": "projects/gallery/brew-happiness-cafe-g2_Air3SfL.jpg",
-    "caption": "Brew Happiness Cafe — view 2",
+    "image": "projects/gallery/brew-happiness-cafe-g2_3H5uoVP.jpg",
+    "caption": "Brew Happiness Cafe - view 2",
     "display_order": 2
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 51,
+  "pk": 91,
   "fields": {
     "project": 9,
-    "image": "projects/gallery/brew-happiness-cafe-g3.jpg",
-    "caption": "Brew Happiness Cafe — view 3",
+    "image": "projects/gallery/brew-happiness-cafe-g3_jxclGr5.jpg",
+    "caption": "Brew Happiness Cafe - view 3",
     "display_order": 3
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 52,
-  "fields": {
-    "project": 9,
-    "image": "projects/gallery/brew-happiness-cafe-g4.jpg",
-    "caption": "Brew Happiness Cafe — view 4",
-    "display_order": 4
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 53,
-  "fields": {
-    "project": 9,
-    "image": "projects/gallery/brew-happiness-cafe-g5.jpg",
-    "caption": "Brew Happiness Cafe — view 5",
-    "display_order": 5
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 54,
+  "pk": 92,
   "fields": {
     "project": 10,
-    "image": "projects/gallery/artisan-coffee-house-g1_sHci7Jq.jpg",
-    "caption": "Artisan Coffee House — view 1",
+    "image": "projects/gallery/artisan-coffee-house-g1_aLCvCQL.jpg",
+    "caption": "Artisan Coffee House - view 1",
     "display_order": 1
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 55,
+  "pk": 93,
   "fields": {
     "project": 10,
-    "image": "projects/gallery/artisan-coffee-house-g2.jpg",
-    "caption": "Artisan Coffee House — view 2",
+    "image": "projects/gallery/artisan-coffee-house-g2_mzR0kuG.jpg",
+    "caption": "Artisan Coffee House - view 2",
     "display_order": 2
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 56,
-  "fields": {
-    "project": 10,
-    "image": "projects/gallery/artisan-coffee-house-g3.jpg",
-    "caption": "Artisan Coffee House — view 3",
-    "display_order": 3
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 57,
-  "fields": {
-    "project": 10,
-    "image": "projects/gallery/artisan-coffee-house-g4.jpg",
-    "caption": "Artisan Coffee House — view 4",
-    "display_order": 4
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 58,
-  "fields": {
-    "project": 10,
-    "image": "projects/gallery/artisan-coffee-house-g5.jpg",
-    "caption": "Artisan Coffee House — view 5",
-    "display_order": 5
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 59,
+  "pk": 94,
   "fields": {
     "project": 11,
-    "image": "projects/gallery/corporate-office-fit-out-g1_nw7gHCK.jpg",
-    "caption": "Corporate Office Fit-Out — view 1",
+    "image": "projects/gallery/corporate-office-fit-out-g1_MuS26OD.jpg",
+    "caption": "Corporate Office Fit-Out - view 1",
     "display_order": 1
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 60,
+  "pk": 95,
   "fields": {
     "project": 11,
-    "image": "projects/gallery/corporate-office-fit-out-g2_c6nQVmK.jpg",
-    "caption": "Corporate Office Fit-Out — view 2",
+    "image": "projects/gallery/corporate-office-fit-out-g2_ByAWdaW.jpg",
+    "caption": "Corporate Office Fit-Out - view 2",
     "display_order": 2
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 61,
+  "pk": 96,
   "fields": {
     "project": 11,
-    "image": "projects/gallery/corporate-office-fit-out-g3.jpg",
-    "caption": "Corporate Office Fit-Out — view 3",
+    "image": "projects/gallery/corporate-office-fit-out-g3_LzmBwOY.jpg",
+    "caption": "Corporate Office Fit-Out - view 3",
     "display_order": 3
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 62,
-  "fields": {
-    "project": 11,
-    "image": "projects/gallery/corporate-office-fit-out-g4.jpg",
-    "caption": "Corporate Office Fit-Out — view 4",
-    "display_order": 4
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 63,
-  "fields": {
-    "project": 11,
-    "image": "projects/gallery/corporate-office-fit-out-g5.jpg",
-    "caption": "Corporate Office Fit-Out — view 5",
-    "display_order": 5
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 64,
-  "fields": {
-    "project": 11,
-    "image": "projects/gallery/corporate-office-fit-out-g6.jpg",
-    "caption": "Corporate Office Fit-Out — view 6",
-    "display_order": 6
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 65,
+  "pk": 97,
   "fields": {
     "project": 12,
-    "image": "projects/gallery/skyline-apartment-interior-g1_4eXRnFX.jpg",
-    "caption": "Skyline Apartment Interior — view 1",
+    "image": "projects/gallery/skyline-apartment-interior-g1_WtCuf98.jpg",
+    "caption": "Skyline Apartment Interior - view 1",
     "display_order": 1
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 66,
+  "pk": 98,
   "fields": {
     "project": 12,
-    "image": "projects/gallery/skyline-apartment-interior-g2_OkAiwZW.jpg",
-    "caption": "Skyline Apartment Interior — view 2",
+    "image": "projects/gallery/skyline-apartment-interior-g2_rug2g68.jpg",
+    "caption": "Skyline Apartment Interior - view 2",
     "display_order": 2
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 67,
+  "pk": 99,
   "fields": {
     "project": 12,
-    "image": "projects/gallery/skyline-apartment-interior-g3_qOPDkSJ.jpg",
-    "caption": "Skyline Apartment Interior — view 3",
+    "image": "projects/gallery/skyline-apartment-interior-g3_fSDSzu8.jpg",
+    "caption": "Skyline Apartment Interior - view 3",
     "display_order": 3
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 68,
-  "fields": {
-    "project": 12,
-    "image": "projects/gallery/skyline-apartment-interior-g4.jpg",
-    "caption": "Skyline Apartment Interior — view 4",
-    "display_order": 4
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 69,
-  "fields": {
-    "project": 12,
-    "image": "projects/gallery/skyline-apartment-interior-g5.jpg",
-    "caption": "Skyline Apartment Interior — view 5",
-    "display_order": 5
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 70,
+  "pk": 100,
   "fields": {
     "project": 13,
-    "image": "projects/gallery/modern-family-living-room-g1_BDULPoB.jpg",
-    "caption": "Modern Family Living Room — view 1",
+    "image": "projects/gallery/modern-family-living-room-g1_NklhyVP.jpg",
+    "caption": "Modern Family Living Room - view 1",
     "display_order": 1
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 71,
+  "pk": 101,
   "fields": {
     "project": 13,
-    "image": "projects/gallery/modern-family-living-room-g2.jpg",
-    "caption": "Modern Family Living Room — view 2",
+    "image": "projects/gallery/modern-family-living-room-g2_hzTIime.jpg",
+    "caption": "Modern Family Living Room - view 2",
     "display_order": 2
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 72,
-  "fields": {
-    "project": 13,
-    "image": "projects/gallery/modern-family-living-room-g3.jpg",
-    "caption": "Modern Family Living Room — view 3",
-    "display_order": 3
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 73,
-  "fields": {
-    "project": 13,
-    "image": "projects/gallery/modern-family-living-room-g4.jpg",
-    "caption": "Modern Family Living Room — view 4",
-    "display_order": 4
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 74,
-  "fields": {
-    "project": 13,
-    "image": "projects/gallery/modern-family-living-room-g5.jpg",
-    "caption": "Modern Family Living Room — view 5",
-    "display_order": 5
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 75,
+  "pk": 102,
   "fields": {
     "project": 14,
-    "image": "projects/gallery/premium-modular-kitchen-g1_uGHUAxM.jpg",
-    "caption": "Premium Modular Kitchen — view 1",
+    "image": "projects/gallery/premium-modular-kitchen-g1_LQknd90.jpg",
+    "caption": "Premium Modular Kitchen - view 1",
     "display_order": 1
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 76,
+  "pk": 103,
   "fields": {
     "project": 14,
-    "image": "projects/gallery/premium-modular-kitchen-g2.jpg",
-    "caption": "Premium Modular Kitchen — view 2",
+    "image": "projects/gallery/premium-modular-kitchen-g2_6irGUtI.jpg",
+    "caption": "Premium Modular Kitchen - view 2",
     "display_order": 2
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 77,
-  "fields": {
-    "project": 14,
-    "image": "projects/gallery/premium-modular-kitchen-g3.jpg",
-    "caption": "Premium Modular Kitchen — view 3",
-    "display_order": 3
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 78,
-  "fields": {
-    "project": 14,
-    "image": "projects/gallery/premium-modular-kitchen-g4.jpg",
-    "caption": "Premium Modular Kitchen — view 4",
-    "display_order": 4
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 79,
-  "fields": {
-    "project": 14,
-    "image": "projects/gallery/premium-modular-kitchen-g5.jpg",
-    "caption": "Premium Modular Kitchen — view 5",
-    "display_order": 5
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 80,
+  "pk": 104,
   "fields": {
     "project": 15,
-    "image": "projects/gallery/cozy-bedroom-makeover-g1_FPjmVpB.jpg",
-    "caption": "Cozy Bedroom Makeover — view 1",
+    "image": "projects/gallery/cozy-bedroom-makeover-g1_8oxI6Wj.jpg",
+    "caption": "Cozy Bedroom Makeover - view 1",
     "display_order": 1
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 81,
+  "pk": 105,
   "fields": {
     "project": 15,
-    "image": "projects/gallery/cozy-bedroom-makeover-g2.jpg",
-    "caption": "Cozy Bedroom Makeover — view 2",
+    "image": "projects/gallery/cozy-bedroom-makeover-g2_6MXQuew.jpg",
+    "caption": "Cozy Bedroom Makeover - view 2",
     "display_order": 2
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 82,
-  "fields": {
-    "project": 15,
-    "image": "projects/gallery/cozy-bedroom-makeover-g3.jpg",
-    "caption": "Cozy Bedroom Makeover — view 3",
-    "display_order": 3
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 83,
-  "fields": {
-    "project": 15,
-    "image": "projects/gallery/cozy-bedroom-makeover-g4.jpg",
-    "caption": "Cozy Bedroom Makeover — view 4",
-    "display_order": 4
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 84,
+  "pk": 106,
   "fields": {
     "project": 16,
-    "image": "projects/gallery/glass-facade-commercial-building-g1_alIOxIl.jpg",
-    "caption": "Glass Facade Commercial Building — view 1",
+    "image": "projects/gallery/glass-facade-commercial-building-g1_CKfTe1W.jpg",
+    "caption": "Glass Facade Commercial Building - view 1",
     "display_order": 1
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 85,
+  "pk": 107,
   "fields": {
     "project": 16,
-    "image": "projects/gallery/glass-facade-commercial-building-g2.jpg",
-    "caption": "Glass Facade Commercial Building — view 2",
+    "image": "projects/gallery/glass-facade-commercial-building-g2_4k7PlF2.jpg",
+    "caption": "Glass Facade Commercial Building - view 2",
     "display_order": 2
   }
 },
 {
   "model": "projects.projectgallery",
-  "pk": 86,
+  "pk": 108,
   "fields": {
     "project": 16,
-    "image": "projects/gallery/glass-facade-commercial-building-g3.jpg",
-    "caption": "Glass Facade Commercial Building — view 3",
+    "image": "projects/gallery/glass-facade-commercial-building-g3_KdG4jz4.jpg",
+    "caption": "Glass Facade Commercial Building - view 3",
     "display_order": 3
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 87,
-  "fields": {
-    "project": 16,
-    "image": "projects/gallery/glass-facade-commercial-building-g4.jpg",
-    "caption": "Glass Facade Commercial Building — view 4",
-    "display_order": 4
-  }
-},
-{
-  "model": "projects.projectgallery",
-  "pk": 88,
-  "fields": {
-    "project": 16,
-    "image": "projects/gallery/glass-facade-commercial-building-g5.jpg",
-    "caption": "Glass Facade Commercial Building — view 5",
-    "display_order": 5
   }
 },
 {
@@ -906,7 +726,7 @@
   "fields": {
     "title": "5 Tips to Choose the Right Flooring for Your Home",
     "slug": "choose-right-flooring",
-    "featured_image": "news/choose-right-flooring.jpg",
+    "featured_image": "news/choose-right-flooring_Rirj8eH.jpg",
     "summary": "From tiles to hardwood and vinyl, here is how to pick a floor that balances looks, durability and budget.",
     "content": "Flooring sets the tone for your entire home, so it deserves careful thought.\nStart with how each room is used — high-traffic areas like living rooms and kitchens need durable, easy-to-clean surfaces, while bedrooms can afford softer finishes.\nConsider maintenance and moisture: bathrooms and kitchens do best with tiles or engineered options, while bedrooms suit wood or laminate.\nMatch the floor tone to your walls and furniture — lighter floors open up small spaces, darker floors add warmth and richness.\nFinally, balance looks with budget. Our team helps you choose a floor that lasts and fits the way you live.",
     "author": "Decora Nine",
@@ -916,7 +736,7 @@
     "seo_title": "5 Tips to Choose the Right Flooring for Your Home",
     "seo_description": "From tiles to hardwood and vinyl, here is how to pick a floor that balances looks, durability and budget.",
     "created_at": "2026-08-04T10:40:39.856Z",
-    "updated_at": "2026-08-04T10:40:39.856Z"
+    "updated_at": "2026-08-17T11:13:27.850Z"
   }
 },
 {
@@ -925,7 +745,7 @@
   "fields": {
     "title": "How to Mix Prints and Patterns in Your Interiors",
     "slug": "mix-prints-and-patterns",
-    "featured_image": "news/mix-prints-and-patterns.jpg",
+    "featured_image": "news/mix-prints-and-patterns_VHCmt1r.jpg",
     "summary": "Layering patterns can feel intimidating — these simple rules make it effortless and elegant.",
     "content": "Mixing patterns is one of the fastest ways to make a space feel curated and alive.\nAnchor the room with one dominant pattern, then add smaller-scale prints that share a colour.\nVary the scale — pair a large floral with a fine stripe or geometric so they complement rather than compete.\nKeep a consistent colour palette to tie everything together, and use solids to give the eye a place to rest.\nDone well, layered prints add personality without the clutter.",
     "author": "Decora Nine",
@@ -935,7 +755,7 @@
     "seo_title": "How to Mix Prints and Patterns in Your Interiors",
     "seo_description": "Layering patterns can feel intimidating — these simple rules make it effortless and elegant.",
     "created_at": "2026-08-04T10:40:39.888Z",
-    "updated_at": "2026-08-04T10:40:39.888Z"
+    "updated_at": "2026-08-17T11:13:27.858Z"
   }
 },
 {
@@ -944,7 +764,7 @@
   "fields": {
     "title": "Behind the Scenes: Our Brew Happiness Café Project",
     "slug": "brew-happiness-cafe-story",
-    "featured_image": "news/brew-happiness-cafe-story.jpg",
+    "featured_image": "news/brew-happiness-cafe-story_C7QumJm.jpg",
     "summary": "A look at how we turned a bare shell into a warm, industrial-chic café that keeps guests coming back.",
     "content": "When Brew Happiness approached us, they wanted a café that felt cosy yet contemporary.\nWe started with the layout — maximising seating while keeping a comfortable flow from counter to tables.\nCustom signage, display counters and layered lighting gave the space its personality.\nA mix of exposed textures and warm wood created that industrial-chic feel guests love.\nThe result: a café that pulls in footfall and keeps people lingering over a second cup.",
     "author": "Decora Nine",
@@ -954,7 +774,7 @@
     "seo_title": "Behind the Scenes: Our Brew Happiness Café Project",
     "seo_description": "A look at how we turned a bare shell into a warm, industrial-chic café that keeps guests coming back.",
     "created_at": "2026-08-04T10:40:40.021Z",
-    "updated_at": "2026-08-04T10:40:40.021Z"
+    "updated_at": "2026-08-17T11:13:27.874Z"
   }
 },
 {
@@ -963,7 +783,7 @@
   "fields": {
     "title": "Decora Nine Completes Corporate Office Fit-Out in Electronic City",
     "slug": "corporate-office-electronic-city",
-    "featured_image": "news/corporate-office-electronic-city.jpg",
+    "featured_image": "news/corporate-office-electronic-city_Ho2JvEF.jpg",
     "summary": "A 6,000 sq ft open-plan workspace with glass cabins and breakout zones, delivered on schedule.",
     "content": "We are proud to announce the completion of a 6,000 sq ft corporate office in Electronic City, Bangalore.\nThe brief called for an open, collaborative workspace that still offered focus areas and privacy.\nOur team delivered open-plan workstations, glass meeting cabins, breakout zones and biophilic accents.\nDespite a tight programme, the project was handed over on schedule and on quality.\nIt is another example of our promise: dependable execution, true to the design intent.",
     "author": "Decora Nine",
@@ -973,7 +793,7 @@
     "seo_title": "Decora Nine Completes Corporate Office Fit-Out in Electronic City",
     "seo_description": "A 6,000 sq ft open-plan workspace with glass cabins and breakout zones, delivered on schedule.",
     "created_at": "2026-08-04T10:40:40.041Z",
-    "updated_at": "2026-08-04T10:40:40.041Z"
+    "updated_at": "2026-08-17T11:13:27.882Z"
   }
 },
 {
@@ -982,7 +802,7 @@
   "fields": {
     "title": "Modular Kitchen Trends for 2025",
     "slug": "modular-kitchen-trends-2025",
-    "featured_image": "news/modular-kitchen-trends-2025.jpg",
+    "featured_image": "news/modular-kitchen-trends-2025_Pe8OPYv.jpg",
     "summary": "Handleless fronts, smart storage and warm materials — the modular kitchen ideas defining 2025.",
     "content": "The modern kitchen is more open, more tactile and smarter than ever.\nHandleless, push-to-open cabinetry is leading the way for a clean, seamless look.\nSmart storage — tall units, corner carousels and drawer organisers — makes every inch count.\nWarm materials like wood-grain finishes and quartz counters bring balance to sleek layouts.\nIf you are planning a kitchen this year, these ideas are a great place to start.",
     "author": "Decora Nine",
@@ -992,7 +812,7 @@
     "seo_title": "Modular Kitchen Trends for 2025",
     "seo_description": "Handleless fronts, smart storage and warm materials — the modular kitchen ideas defining 2025.",
     "created_at": "2026-08-04T10:40:40.052Z",
-    "updated_at": "2026-08-04T10:40:40.052Z"
+    "updated_at": "2026-08-17T11:13:27.893Z"
   }
 },
 {
@@ -1001,7 +821,7 @@
   "fields": {
     "title": "Why Glass Facades Are Transforming Commercial Spaces",
     "slug": "glass-facades-commercial",
-    "featured_image": "news/glass-facades-commercial.jpg",
+    "featured_image": "news/glass-facades-commercial_IgWut6Z.jpg",
     "summary": "Structural glazing and ACP cladding are redefining how commercial buildings look and perform.",
     "content": "A building's facade is its first impression — and glass is making a bold statement.\nStructural glass glazing floods interiors with natural light and creates a sleek, modern exterior.\nPaired with ACP cladding, it delivers a seamless, low-maintenance finish that stands out at street level.\nBeyond looks, a well-designed facade improves energy performance and brand perception.\nIt is one of our fastest-growing services for retail and commercial clients across South India.",
     "author": "Decora Nine",
@@ -1011,7 +831,7 @@
     "seo_title": "Why Glass Facades Are Transforming Commercial Spaces",
     "seo_description": "Structural glazing and ACP cladding are redefining how commercial buildings look and perform.",
     "created_at": "2026-08-04T10:40:40.068Z",
-    "updated_at": "2026-08-04T10:40:40.068Z"
+    "updated_at": "2026-08-17T11:13:27.908Z"
   }
 },
 {
