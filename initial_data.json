@@ -22,269 +22,295 @@
 },
 {
   "model": "services.service",
-  "pk": 5,
+  "pk": 11,
   "fields": {
-    "title": "Residential Interior Design",
-    "slug": "residential-interior-design",
-    "short_description": "Functional homes, thoughtfully crafted kitchens",
-    "description": "We design and execute functional, elegant homes - from living and bedroom spaces to thoughtfully crafted modular kitchens - tailored to how you live. Every stage, from the first drawing to the final finish, is handled by our in-house team for consistent quality and on-time delivery.",
-    "icon": "🏠",
-    "cover_image": "services/residential-interior-design_sN3OdXH.jpg",
+    "title": "Restaurants & Café Interiors",
+    "slug": "restaurant-cafe-interiors",
+    "short_description": "Stand-out cafés, restaurants & hospitality interiors",
+    "description": "We design and build cafés, restaurants and hospitality spaces that pull in footfall and keep guests lingering. From concept, seating layout and lighting to custom counters, feature walls, signage and finishes, our in-house team delivers the whole space on quality and on schedule.",
+    "icon": "🍽️",
+    "cover_image": "services/restaurant-cafe-interiors_iS6ExmJ.jpg",
     "display_order": 1,
     "is_active": true,
-    "seo_title": "Residential Interior Design",
-    "seo_description": "Functional homes, thoughtfully crafted kitchens",
-    "created_at": "2026-07-27T06:52:40.943Z",
-    "updated_at": "2026-08-17T11:13:26.810Z"
+    "seo_title": "Restaurants & Café Interiors",
+    "seo_description": "Stand-out cafés, restaurants & hospitality interiors",
+    "created_at": "2026-08-18T09:48:14.293Z",
+    "updated_at": "2026-08-18T09:48:14.293Z"
   }
 },
 {
   "model": "services.service",
-  "pk": 6,
+  "pk": 12,
   "fields": {
-    "title": "Commercial Interior Design",
-    "slug": "commercial-interior-design",
-    "short_description": "Spaces built to attract customers",
-    "description": "Retail stores, cafes, restaurants and large-format supermarkets - we build commercial spaces designed to attract customers and elevate your brand, backed by dependable site execution across South India.",
-    "icon": "🏬",
-    "cover_image": "services/commercial-interior-design_vmMQ23B.jpg",
+    "title": "Home Interiors & Modular Kitchen",
+    "slug": "home-interiors-modular-kitchen",
+    "short_description": "Elegant homes with premium modular kitchens",
+    "description": "Complete home interiors — living rooms, bedrooms, wardrobes, TV units and premium modular kitchens — tailored to the way you live. Handleless finishes, smart storage and precision joinery, crafted and installed by our own skilled team.",
+    "icon": "🏠",
+    "cover_image": "services/home-interiors-modular-kitchen_V9gODik.jpg",
     "display_order": 2,
     "is_active": true,
-    "seo_title": "Commercial Interior Design",
-    "seo_description": "Spaces built to attract customers",
-    "created_at": "2026-07-27T06:52:41.020Z",
-    "updated_at": "2026-08-17T11:13:26.956Z"
+    "seo_title": "Home Interiors & Modular Kitchen",
+    "seo_description": "Elegant homes with premium modular kitchens",
+    "created_at": "2026-08-18T09:48:14.327Z",
+    "updated_at": "2026-08-18T09:48:14.327Z"
   }
 },
 {
   "model": "services.service",
-  "pk": 7,
-  "fields": {
-    "title": "Office Interiors",
-    "slug": "office-interiors",
-    "short_description": "Productive workspaces for growing teams",
-    "description": "Open-plan workstations, cabins and meeting zones designed to boost productivity and reflect your culture - delivered on schedule for growing teams.",
-    "icon": "💼",
-    "cover_image": "services/office-interiors_EVhxE8e.jpg",
-    "display_order": 3,
-    "is_active": true,
-    "seo_title": "Office Interiors",
-    "seo_description": "Productive workspaces for growing teams",
-    "created_at": "2026-07-27T06:52:41.080Z",
-    "updated_at": "2026-08-17T11:13:27.069Z"
-  }
-},
-{
-  "model": "services.service",
-  "pk": 8,
-  "fields": {
-    "title": "Furniture & Carpentry",
-    "slug": "furniture-carpentry",
-    "short_description": "Custom furniture, precision carpentry work",
-    "description": "Custom-built furniture and precision carpentry - wardrobes, storage, cabinetry and modular units - crafted to fit your space perfectly and built to last.",
-    "icon": "🪑",
-    "cover_image": "services/furniture-carpentry_yIaoq3j.jpg",
-    "display_order": 4,
-    "is_active": true,
-    "seo_title": "Furniture & Carpentry",
-    "seo_description": "Custom furniture, precision carpentry work",
-    "created_at": "2026-07-27T06:52:41.098Z",
-    "updated_at": "2026-08-17T11:13:27.193Z"
-  }
-},
-{
-  "model": "services.service",
-  "pk": 9,
-  "fields": {
-    "title": "Signage Board Work",
-    "slug": "signage-board-work",
-    "short_description": "Signage boards that get you noticed",
-    "description": "Eye-catching signage and branding boards that get your business noticed - designed, fabricated and installed with a clean, professional finish.",
-    "icon": "🪧",
-    "cover_image": "services/signage-board-work_5mAg38s.jpg",
-    "display_order": 5,
-    "is_active": true,
-    "seo_title": "Signage Board Work",
-    "seo_description": "Signage boards that get you noticed",
-    "created_at": "2026-07-27T06:52:41.126Z",
-    "updated_at": "2026-08-17T11:13:27.289Z"
-  }
-},
-{
-  "model": "services.service",
-  "pk": 10,
+  "pk": 13,
   "fields": {
     "title": "ACP & Glass Structure Glazing",
     "slug": "acp-glass-structure-glazing",
-    "short_description": "Sleek facades, seamless glass glazing",
-    "description": "Modern ACP cladding and structural glass glazing for sleek, seamless building facades that make a lasting first impression.",
+    "short_description": "Sleek ACP cladding & structural glass glazing",
+    "description": "Modern ACP cladding and structural glass glazing for facades, storefronts and interiors — a clean, low-maintenance finish that makes a strong first impression and stands up to the elements.",
     "icon": "🏢",
-    "cover_image": "services/acp-glass-structure-glazing_PMxwfUZ.jpg",
-    "display_order": 6,
+    "cover_image": "services/acp-glass-structure-glazing_dIaagrw.jpg",
+    "display_order": 3,
     "is_active": true,
     "seo_title": "ACP & Glass Structure Glazing",
-    "seo_description": "Sleek facades, seamless glass glazing",
-    "created_at": "2026-07-27T06:52:41.153Z",
-    "updated_at": "2026-08-17T11:13:27.365Z"
+    "seo_description": "Sleek ACP cladding & structural glass glazing",
+    "created_at": "2026-08-18T09:48:14.361Z",
+    "updated_at": "2026-08-18T09:48:14.361Z"
+  }
+},
+{
+  "model": "services.service",
+  "pk": 14,
+  "fields": {
+    "title": "Office Interiors",
+    "slug": "office-interiors",
+    "short_description": "Productive, inspiring workspaces",
+    "description": "Open-plan workstations, cabins, meeting rooms and breakout zones designed to boost productivity and reflect your culture — planned, built and delivered on schedule for growing teams.",
+    "icon": "💼",
+    "cover_image": "services/office-interiors_2gljHGd.jpg",
+    "display_order": 4,
+    "is_active": true,
+    "seo_title": "Office Interiors",
+    "seo_description": "Productive, inspiring workspaces",
+    "created_at": "2026-08-18T09:48:14.393Z",
+    "updated_at": "2026-08-18T09:48:14.393Z"
+  }
+},
+{
+  "model": "services.service",
+  "pk": 15,
+  "fields": {
+    "title": "Kitchen Equipments",
+    "slug": "kitchen-equipments",
+    "short_description": "Commercial kitchen equipment & installation",
+    "description": "Supply and installation of commercial kitchen equipment for cafés, restaurants and cloud kitchens — planned around your workflow for efficiency, hygiene and durability, and installed to spec by our team.",
+    "icon": "🍳",
+    "cover_image": "services/kitchen-equipments.jpg",
+    "display_order": 5,
+    "is_active": true,
+    "seo_title": "Kitchen Equipments",
+    "seo_description": "Commercial kitchen equipment & installation",
+    "created_at": "2026-08-18T09:48:14.425Z",
+    "updated_at": "2026-08-18T09:48:14.425Z"
+  }
+},
+{
+  "model": "services.service",
+  "pk": 16,
+  "fields": {
+    "title": "Furniture & Carpentry Work",
+    "slug": "furniture-carpentry",
+    "short_description": "Custom furniture & precision carpentry",
+    "description": "Custom-built furniture and precision carpentry — wardrobes, storage, cabinetry, panelling and modular units — crafted in-house to fit your space perfectly and built to last.",
+    "icon": "🪑",
+    "cover_image": "services/furniture-carpentry_ATUhXs3.jpg",
+    "display_order": 6,
+    "is_active": true,
+    "seo_title": "Furniture & Carpentry Work",
+    "seo_description": "Custom furniture & precision carpentry",
+    "created_at": "2026-08-18T09:48:14.445Z",
+    "updated_at": "2026-08-18T09:48:14.445Z"
+  }
+},
+{
+  "model": "services.service",
+  "pk": 17,
+  "fields": {
+    "title": "Office Glass Partitions",
+    "slug": "office-glass-partitions",
+    "short_description": "Modern glass partitions for offices",
+    "description": "Frameless and framed glass partitions for offices — cabins, meeting rooms and workstations — that bring in light and openness while keeping acoustic privacy, with clean detailing and durable hardware.",
+    "icon": "🚪",
+    "cover_image": "services/office-glass-partitions.jpg",
+    "display_order": 7,
+    "is_active": true,
+    "seo_title": "Office Glass Partitions",
+    "seo_description": "Modern glass partitions for offices",
+    "created_at": "2026-08-18T09:48:14.473Z",
+    "updated_at": "2026-08-18T09:48:14.473Z"
+  }
+},
+{
+  "model": "services.service",
+  "pk": 18,
+  "fields": {
+    "title": "POP Ceilings",
+    "slug": "pop-ceilings",
+    "short_description": "False ceilings & decorative POP work",
+    "description": "Designer POP and false ceilings with cove lighting, coffers and profiles that add depth, hide services and transform the feel of any room — for homes, offices and commercial spaces.",
+    "icon": "✨",
+    "cover_image": "services/pop-ceilings.jpg",
+    "display_order": 8,
+    "is_active": true,
+    "seo_title": "POP Ceilings",
+    "seo_description": "False ceilings & decorative POP work",
+    "created_at": "2026-08-18T09:48:14.501Z",
+    "updated_at": "2026-08-18T09:48:14.501Z"
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 42,
+  "pk": 58,
   "fields": {
-    "service": 5,
-    "image": "services/gallery/residential-interior-design-g1_IPX69Ve.jpg",
-    "caption": "Residential Interior Design - view 1",
+    "service": 11,
+    "image": "services/gallery/restaurant-cafe-interiors-g1_IKx0yla.jpg",
+    "caption": "Restaurants & Café Interiors - view 1",
     "display_order": 1
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 43,
+  "pk": 59,
   "fields": {
-    "service": 5,
-    "image": "services/gallery/residential-interior-design-g2_ZCtYcA7.jpg",
-    "caption": "Residential Interior Design - view 2",
+    "service": 11,
+    "image": "services/gallery/restaurant-cafe-interiors-g2_hj1Pizc.jpg",
+    "caption": "Restaurants & Café Interiors - view 2",
     "display_order": 2
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 44,
+  "pk": 60,
   "fields": {
-    "service": 5,
-    "image": "services/gallery/residential-interior-design-g3_0J7AmAw.jpg",
-    "caption": "Residential Interior Design - view 3",
-    "display_order": 3
-  }
-},
-{
-  "model": "services.servicegallery",
-  "pk": 45,
-  "fields": {
-    "service": 6,
-    "image": "services/gallery/commercial-interior-design-g1_GmgPPeX.jpg",
-    "caption": "Commercial Interior Design - view 1",
+    "service": 12,
+    "image": "services/gallery/home-interiors-modular-kitchen-g1_rNPwTN5.jpg",
+    "caption": "Home Interiors & Modular Kitchen - view 1",
     "display_order": 1
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 46,
+  "pk": 61,
   "fields": {
-    "service": 6,
-    "image": "services/gallery/commercial-interior-design-g2_jwgi6A6.jpg",
-    "caption": "Commercial Interior Design - view 2",
+    "service": 12,
+    "image": "services/gallery/home-interiors-modular-kitchen-g2_e7UKrAp.jpg",
+    "caption": "Home Interiors & Modular Kitchen - view 2",
     "display_order": 2
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 47,
+  "pk": 62,
   "fields": {
-    "service": 6,
-    "image": "services/gallery/commercial-interior-design-g3.jpg",
-    "caption": "Commercial Interior Design - view 3",
-    "display_order": 3
-  }
-},
-{
-  "model": "services.servicegallery",
-  "pk": 48,
-  "fields": {
-    "service": 7,
-    "image": "services/gallery/office-interiors-g1_YuPBPjH.jpg",
-    "caption": "Office Interiors - view 1",
-    "display_order": 1
-  }
-},
-{
-  "model": "services.servicegallery",
-  "pk": 49,
-  "fields": {
-    "service": 7,
-    "image": "services/gallery/office-interiors-g2_45lTgyS.jpg",
-    "caption": "Office Interiors - view 2",
-    "display_order": 2
-  }
-},
-{
-  "model": "services.servicegallery",
-  "pk": 50,
-  "fields": {
-    "service": 7,
-    "image": "services/gallery/office-interiors-g3_J5MQCX0.jpg",
-    "caption": "Office Interiors - view 3",
-    "display_order": 3
-  }
-},
-{
-  "model": "services.servicegallery",
-  "pk": 51,
-  "fields": {
-    "service": 7,
-    "image": "services/gallery/office-interiors-g4_4gfybr0.jpg",
-    "caption": "Office Interiors - view 4",
-    "display_order": 4
-  }
-},
-{
-  "model": "services.servicegallery",
-  "pk": 52,
-  "fields": {
-    "service": 8,
-    "image": "services/gallery/furniture-carpentry-g1_O6oNuJv.jpg",
-    "caption": "Furniture & Carpentry - view 1",
-    "display_order": 1
-  }
-},
-{
-  "model": "services.servicegallery",
-  "pk": 53,
-  "fields": {
-    "service": 8,
-    "image": "services/gallery/furniture-carpentry-g2_vNQtfO8.jpg",
-    "caption": "Furniture & Carpentry - view 2",
-    "display_order": 2
-  }
-},
-{
-  "model": "services.servicegallery",
-  "pk": 54,
-  "fields": {
-    "service": 9,
-    "image": "services/gallery/signage-board-work-g1_RkG7tyf.jpg",
-    "caption": "Signage Board Work - view 1",
-    "display_order": 1
-  }
-},
-{
-  "model": "services.servicegallery",
-  "pk": 55,
-  "fields": {
-    "service": 9,
-    "image": "services/gallery/signage-board-work-g2_jtzNQWB.jpg",
-    "caption": "Signage Board Work - view 2",
-    "display_order": 2
-  }
-},
-{
-  "model": "services.servicegallery",
-  "pk": 56,
-  "fields": {
-    "service": 10,
-    "image": "services/gallery/acp-glass-structure-glazing-g1_9g9qV8p.jpg",
+    "service": 13,
+    "image": "services/gallery/acp-glass-structure-glazing-g1_WRGuni5.jpg",
     "caption": "ACP & Glass Structure Glazing - view 1",
     "display_order": 1
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 57,
+  "pk": 63,
   "fields": {
-    "service": 10,
-    "image": "services/gallery/acp-glass-structure-glazing-g2_cteht2l.jpg",
+    "service": 13,
+    "image": "services/gallery/acp-glass-structure-glazing-g2_5YBvSem.jpg",
     "caption": "ACP & Glass Structure Glazing - view 2",
+    "display_order": 2
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 64,
+  "fields": {
+    "service": 14,
+    "image": "services/gallery/office-interiors-g1_KFTnQUY.jpg",
+    "caption": "Office Interiors - view 1",
+    "display_order": 1
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 65,
+  "fields": {
+    "service": 14,
+    "image": "services/gallery/office-interiors-g2_a4XVRnk.jpg",
+    "caption": "Office Interiors - view 2",
+    "display_order": 2
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 66,
+  "fields": {
+    "service": 15,
+    "image": "services/gallery/kitchen-equipments-g1.jpg",
+    "caption": "Kitchen Equipments - view 1",
+    "display_order": 1
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 67,
+  "fields": {
+    "service": 16,
+    "image": "services/gallery/furniture-carpentry-g1_OelhgEV.jpg",
+    "caption": "Furniture & Carpentry Work - view 1",
+    "display_order": 1
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 68,
+  "fields": {
+    "service": 16,
+    "image": "services/gallery/furniture-carpentry-g2_Chobu0S.jpg",
+    "caption": "Furniture & Carpentry Work - view 2",
+    "display_order": 2
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 69,
+  "fields": {
+    "service": 17,
+    "image": "services/gallery/office-glass-partitions-g1.jpg",
+    "caption": "Office Glass Partitions - view 1",
+    "display_order": 1
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 70,
+  "fields": {
+    "service": 17,
+    "image": "services/gallery/office-glass-partitions-g2.jpg",
+    "caption": "Office Glass Partitions - view 2",
+    "display_order": 2
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 71,
+  "fields": {
+    "service": 18,
+    "image": "services/gallery/pop-ceilings-g1.jpg",
+    "caption": "POP Ceilings - view 1",
+    "display_order": 1
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 72,
+  "fields": {
+    "service": 18,
+    "image": "services/gallery/pop-ceilings-g2.jpg",
+    "caption": "POP Ceilings - view 2",
     "display_order": 2
   }
 },
@@ -335,7 +361,7 @@
     "title": "Brew Happiness Cafe",
     "slug": "brew-happiness-cafe",
     "category": 2,
-    "service": 6,
+    "service": null,
     "client_name": "Brew Happiness",
     "location": "Koramangala, Bangalore",
     "completion_date": "2025-01-20",
@@ -356,7 +382,7 @@
     "title": "Artisan Coffee House",
     "slug": "artisan-coffee-house",
     "category": 2,
-    "service": 6,
+    "service": null,
     "client_name": "Artisan Coffee Co.",
     "location": "Indiranagar, Bangalore",
     "completion_date": "2024-11-12",
@@ -377,7 +403,7 @@
     "title": "Corporate Office Fit-Out",
     "slug": "corporate-office-fit-out",
     "category": 3,
-    "service": 7,
+    "service": null,
     "client_name": "TechHub Pvt Ltd",
     "location": "Electronic City, Bangalore",
     "completion_date": "2025-04-02",
@@ -398,7 +424,7 @@
     "title": "Skyline Apartment Interior",
     "slug": "skyline-apartment-interior",
     "category": 1,
-    "service": 5,
+    "service": null,
     "client_name": "Ananya Rao",
     "location": "Whitefield, Bangalore",
     "completion_date": "2025-03-12",
@@ -419,7 +445,7 @@
     "title": "Modern Family Living Room",
     "slug": "modern-family-living-room",
     "category": 1,
-    "service": 5,
+    "service": null,
     "client_name": "Vikram Nair",
     "location": "Sarjapur, Bangalore",
     "completion_date": "2024-12-10",
@@ -440,7 +466,7 @@
     "title": "Premium Modular Kitchen",
     "slug": "premium-modular-kitchen",
     "category": 4,
-    "service": 8,
+    "service": null,
     "client_name": "The Iyer Family",
     "location": "Jayanagar, Bangalore",
     "completion_date": "2025-05-14",
@@ -461,7 +487,7 @@
     "title": "Cozy Bedroom Makeover",
     "slug": "cozy-bedroom-makeover",
     "category": 1,
-    "service": 8,
+    "service": null,
     "client_name": "Rohit & Meera",
     "location": "Marathahalli, Bangalore",
     "completion_date": "2025-02-08",
@@ -482,7 +508,7 @@
     "title": "Glass Facade Commercial Building",
     "slug": "glass-facade-commercial-building",
     "category": 5,
-    "service": 10,
+    "service": null,
     "client_name": "Skyline Retail Group",
     "location": "Hosur Road, Bangalore",
     "completion_date": "2025-06-01",
