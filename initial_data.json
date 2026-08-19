@@ -65,13 +65,13 @@
     "short_description": "Sleek ACP cladding & structural glass glazing",
     "description": "Modern ACP cladding and structural glass glazing for facades, storefronts and interiors — a clean, low-maintenance finish that makes a strong first impression and stands up to the elements.",
     "icon": "🏢",
-    "cover_image": "services/acp-glass-structure-glazing_dIaagrw.jpg",
+    "cover_image": "services/acp-glass-structure-glazing_Kmtpm34.jpg",
     "display_order": 3,
     "is_active": true,
     "seo_title": "ACP & Glass Structure Glazing",
     "seo_description": "Sleek ACP cladding & structural glass glazing",
     "created_at": "2026-08-18T09:48:14.361Z",
-    "updated_at": "2026-08-18T09:48:14.361Z"
+    "updated_at": "2026-08-19T09:17:15.225Z"
   }
 },
 {
@@ -101,13 +101,13 @@
     "short_description": "Commercial kitchen equipment & installation",
     "description": "Supply and installation of commercial kitchen equipment for cafés, restaurants and cloud kitchens — planned around your workflow for efficiency, hygiene and durability, and installed to spec by our team.",
     "icon": "🍳",
-    "cover_image": "services/kitchen-equipments.jpg",
+    "cover_image": "services/kitchen-equipments_heGe9Mu.jpg",
     "display_order": 5,
     "is_active": true,
     "seo_title": "Kitchen Equipments",
     "seo_description": "Commercial kitchen equipment & installation",
     "created_at": "2026-08-18T09:48:14.425Z",
-    "updated_at": "2026-08-18T09:48:14.425Z"
+    "updated_at": "2026-08-19T09:17:15.334Z"
   }
 },
 {
@@ -155,13 +155,13 @@
     "short_description": "False ceilings & decorative POP work",
     "description": "Designer POP and false ceilings with cove lighting, coffers and profiles that add depth, hide services and transform the feel of any room — for homes, offices and commercial spaces.",
     "icon": "✨",
-    "cover_image": "services/pop-ceilings.jpg",
+    "cover_image": "services/pop-ceilings_2B4guBV.jpg",
     "display_order": 8,
     "is_active": true,
     "seo_title": "POP Ceilings",
     "seo_description": "False ceilings & decorative POP work",
     "created_at": "2026-08-18T09:48:14.501Z",
-    "updated_at": "2026-08-18T09:48:14.501Z"
+    "updated_at": "2026-08-19T09:17:15.426Z"
   }
 },
 {
@@ -206,26 +206,6 @@
 },
 {
   "model": "services.servicegallery",
-  "pk": 62,
-  "fields": {
-    "service": 13,
-    "image": "services/gallery/acp-glass-structure-glazing-g1_WRGuni5.jpg",
-    "caption": "ACP & Glass Structure Glazing - view 1",
-    "display_order": 1
-  }
-},
-{
-  "model": "services.servicegallery",
-  "pk": 63,
-  "fields": {
-    "service": 13,
-    "image": "services/gallery/acp-glass-structure-glazing-g2_5YBvSem.jpg",
-    "caption": "ACP & Glass Structure Glazing - view 2",
-    "display_order": 2
-  }
-},
-{
-  "model": "services.servicegallery",
   "pk": 64,
   "fields": {
     "service": 14,
@@ -242,16 +222,6 @@
     "image": "services/gallery/office-interiors-g2_a4XVRnk.jpg",
     "caption": "Office Interiors - view 2",
     "display_order": 2
-  }
-},
-{
-  "model": "services.servicegallery",
-  "pk": 66,
-  "fields": {
-    "service": 15,
-    "image": "services/gallery/kitchen-equipments-g1.jpg",
-    "caption": "Kitchen Equipments - view 1",
-    "display_order": 1
   }
 },
 {
@@ -296,20 +266,60 @@
 },
 {
   "model": "services.servicegallery",
-  "pk": 71,
+  "pk": 73,
+  "fields": {
+    "service": 13,
+    "image": "services/gallery/acp-glass-structure-glazing-g1_0IMhUjk.jpg",
+    "caption": "ACP & Glass Structure Glazing - view 1",
+    "display_order": 1
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 74,
+  "fields": {
+    "service": 13,
+    "image": "services/gallery/acp-glass-structure-glazing-g2_VecxGSQ.jpg",
+    "caption": "ACP & Glass Structure Glazing - view 2",
+    "display_order": 2
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 75,
+  "fields": {
+    "service": 15,
+    "image": "services/gallery/kitchen-equipments-g1_cKsHGyp.jpg",
+    "caption": "Kitchen Equipments - view 1",
+    "display_order": 1
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 76,
+  "fields": {
+    "service": 15,
+    "image": "services/gallery/kitchen-equipments-g2.jpg",
+    "caption": "Kitchen Equipments - view 2",
+    "display_order": 2
+  }
+},
+{
+  "model": "services.servicegallery",
+  "pk": 77,
   "fields": {
     "service": 18,
-    "image": "services/gallery/pop-ceilings-g1.jpg",
+    "image": "services/gallery/pop-ceilings-g1_BeNo2ZW.jpg",
     "caption": "POP Ceilings - view 1",
     "display_order": 1
   }
 },
 {
   "model": "services.servicegallery",
-  "pk": 72,
+  "pk": 78,
   "fields": {
     "service": 18,
-    "image": "services/gallery/pop-ceilings-g2.jpg",
+    "image": "services/gallery/pop-ceilings-g2_B9ZsBem.jpg",
     "caption": "POP Ceilings - view 2",
     "display_order": 2
   }
