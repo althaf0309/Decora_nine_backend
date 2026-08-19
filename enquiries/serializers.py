@@ -10,4 +10,6 @@ class ContactEnquirySerializer(serializers.ModelSerializer):
             'phone': {'required': True},
             'email': {'required': True},
             'message': {'required': True},
+            'project_location': {'required': False, 'allow_blank': True},
+            'estimated_budget': {'required': False, 'allow_blank': True},
         }
